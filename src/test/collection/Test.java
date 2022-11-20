@@ -23,6 +23,7 @@ public class Test {
 		
 		Integer integer = l.get(0);
 		System.out.println(integer);
+		System.out.println(l.size());
 		int indexOf = l.indexOf(20);
 		System.out.println(indexOf);
 		
